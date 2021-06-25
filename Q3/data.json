@@ -1,0 +1,9 @@
+{
+    "datas": [
+        {"name": "モモ", "category": "fruit"},
+        {"name": "イチゴ", "category": "fruit"},
+        {"name": "ニンジン", "category": "vegetable"},
+        {"name": "ジャガイモ", "category": "vegetable"},
+        {"name": "リンゴ", "category": "fruit"}
+    ]
+}
